@@ -1,5 +1,5 @@
 {
-    "name": "nm/Payme",
+    "name": "nm/payme",
     "description": "Simple Interface for Argus/Mobius payments",
     "license": "MIT",
     "keywords": ["mobius", "billing", "fml"],
