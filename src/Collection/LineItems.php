@@ -16,7 +16,6 @@ class LineItems implements \Countable
         if (isset($this->items[$itemNumberToGet])) {
             return $this->items[$itemNumberToGet];
         }
-
         return null;
     }
 
